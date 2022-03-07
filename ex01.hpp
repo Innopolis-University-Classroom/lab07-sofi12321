@@ -2,7 +2,7 @@
 //change the below code
 // the function below now only works with integers, change it to work with any type
 // also fill out the body
-template <WhatKind>
+template <int WhatKind, float WhatKind>
 void multiples (WhatKind& sum, WhatKind x, int n)
 {
     sum = 1;
