@@ -2,7 +2,7 @@
 // the function below now only works with integers, change it to work with any type
 // also fill out the body
 
-template <int T,float T>
+template <int, float T>
 public class Calculator {
 private:
     T num1, num2;
