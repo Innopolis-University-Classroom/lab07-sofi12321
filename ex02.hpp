@@ -3,12 +3,12 @@
 // also fill out the body
 
 template <class T>
-public class Calculator {
+class Calculator {
 private:
     T num1, num2;
 
 public:
-    Calculator<T>(T n1, T n2) {
+    Calculator(T n1, T n2) {
         num1 = n1;
         num2 = n2;
     }
